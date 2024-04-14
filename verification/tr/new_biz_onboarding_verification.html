@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="tr" xmlns="http://www.w3.org/1999/xhtml">
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta charset="utf-8"> <!-- utf-8 works for most cases -->
     <meta name="viewport" content="width=device-width"> <!-- Forcing initial-scale shouldn't be necessary -->
@@ -9,7 +9,7 @@
 
     <link href="https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700" rel="stylesheet">
 
-    <!-- CSS Reset : BEGIN .-->
+    <!-- CSS Reset : BEGIN ..-->
     <style>
 
         /* What it does: Remove spaces around the email design added by some email clients. */
@@ -353,24 +353,31 @@
                         <tr>
                             <td style="padding: 0 2.5em; text-align: left; padding-bottom: 3em;">
                                 <div>
-                                    <h2 class="message_header"><span style="font-weight: bold">MarketOrient</span> iş platformuna hoş geldiniz</h2>
+<!--                                     <h2 class="message_header">Welcome to the <span style="font-weight: 600">MarketOrient</span> business platform.</h2>-->
                                     <p class="message_body_text">Sayın {$representativeFullName},</p>
-                                    <p class="message_body_text">İşletmenizi MarketOrient platformuna kaydetme talebinde bulundunuz. İşleme devam etmek için lütfen aşağıdaki "Devam et" butonuna tıklayın.
+                                    <p class="message_body_text">
+                                        Firmanızı, {$name}, "MarketOrient" platformumuzda kaydetme talebinizi memnuniyetle karşılıyoruz.<br/>
+                                        Kaydınızın detayları aşağıda belirtilmiştir:
                                         <ul>
-                                            <li class="message_body_text">İşletme adı: {$name}</li>
-                                            <li class="message_body_text">İşletme id: {$marketId}</li>
+                                            <li class="message_body_text">İşletme/Çalışma alanı id: {$marketId}</li>
                                             <li class="message_body_text">İşletme kategorisi: {$category}</li>
-                                            <li class="message_body_text">Ades: {$address}</li>
+                                            <li class="message_body_text">Adres: {$address}</li>
                                             <li class="message_body_text">İl: {$city}</li>
                                             <li class="message_body_text">Ülke: {$country}</li>
                                         </ul>
                                     </p>
+                                    <p class="message_body_text">Çalışma alanınız ve hesabınız 15 günlük deneme süresiyle oluşturulacak ve etkinleştirilecektir. 
+                                        İşlemi devam ettirmek için lütfen aşağıdaki "Devam et" düğmesine tıklayın. 
+                                        Bu süreçte herhangi bir sorunuz veya yardıma ihtiyacınız olursa, lütfen bizimle iletişime geçmekten çekinmeyin.</p>
+                                    <p class="message_body_text" style="margin-top: 25px;margin-bottom: 0">Saygılarımla,</p>
+                                    <p class="message_body_text" style="margin-top: 0;margin-bottom: 0">MarketOrient Müşteri İlişkileri</p>
+                                    <p class="message_body_text" style="margin-top: 0;margin-bottom: 0"><a href="mailto:support@marketorient.com">support@marketorient.com</a></p>
                                 </div>
                             </td>
                         </tr>
                         <tr>
                             <td style="text-align: center;">
-                                <p><a href="{$url}" class="btn btn-primary">Devam et</a></p>
+                                <a href="{$url}" class="btn btn-primary">Devam et</a>
                             </td>
                         </tr>
                     </table>
@@ -379,9 +386,17 @@
             <!-- 1 Column Text + Button : END -->
         </table>
         <table align="center" role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="margin: auto;">
+                    <!--<tr>
+                        <td valign="middle" class="bg_light footer email-section">
+                        </td>
+                    </tr>-->
+        <!--            <tr>-->
+                        <!--<td class="bg_light" style="text-align: center;">-->
+                        <!--    <p>No longer want to receive these email? You can <a href="#" style="color: rgba(0,0,0,.8);">Unsubscribe here</a></p>-->
+                        <!--</td>-->
             <tr>
                 <td class="bg_light" style="text-align: center;">
-                    <p class="footer_small_text">Bu e-posta, web sitemizdeki bir kayıt formunun doldurulmasının ardından otomatik olarak oluşturulmuştur. Eğer formu siz doldurmadıysanız, lütfen bu mesajı dikkate almayın.</p>
+                    <p class="footer_small_text">Bu e-posta, web sitemizdeki bir kayıt formunun doldurulmasına yanıt olarak otomatik olarak oluşturulmuştur. Formu doldurmadıysanız, lütfen bu mesajı dikkate almayın.</p>
                 </td>
             </tr>
             <tr>
