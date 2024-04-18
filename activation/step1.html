@@ -365,17 +365,16 @@
                                             <li class="message_body_text">Country: {$country}</li>
                                         </ul>
                                     </p>
-                                    <p class="message_body_text">Your workspace and account would be created and activated on a 15-day trial basis.
-                                        To continue the process, please click on the "Proceed" button below. If you have any questions or require assistance during this process, please do not hesitate to contact us.</p>
-                                    <p class="message_body_text" style="margin-top: 25px;margin-bottom: 0">Best regards,</p>
-                                    <p class="message_body_text" style="margin-top: 0;margin-bottom: 0">MarketOrient Customer Relations</p>
+                                    <p class="message_body_text">{$mailBodyP2}</p>
+                                    <p class="message_body_text" style="margin-top: 25px;margin-bottom: 0">{$mailBodyP3}</p>
+                                    <p class="message_body_text" style="margin-top: 0;margin-bottom: 0">{$mailBodyP4}</p>
                                     <p class="message_body_text" style="margin-top: 0;margin-bottom: 0"><a href="mailto:support@marketorient.com">support@marketorient.com</a></p>
                                 </div>
                             </td>
                         </tr>
                         <tr>
                             <td style="text-align: center;">
-                                <a href="{$url}" class="btn btn-primary">Proceed</a>
+                                <a href="{$url}" class="btn btn-primary">{$mailButton1Label}</a>
                             </td>
                         </tr>
                     </table>
