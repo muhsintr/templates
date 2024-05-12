@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" x="0px" y="0px">
+    <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M15 5C9.47715 5 5 9.47715 5 15V85C5 90.5229 9.47715 95 15 95H85C90.5229 95 95 90.5229 95 85V15C95 9.47715 90.5229 5 85 5H15ZM13 15C13 13.8954 13.8954 13 15 13H85C86.1046 13 87 13.8954 87 15V85C87 86.1046 86.1046 87 85 87H15C13.8954 87 13 86.1046 13 85V15ZM25 20C22.2386 20 20 22.2386 20 25V30V33C20 35.7614 22.2386 38 25 38C27.7614 38 30 35.7614 30 33V30H45V70H43C40.2386 70 38 72.2386 38 75C38 77.7614 40.2386 80 43 80H57C59.7614 80 62 77.7614 62 75C62 72.2386 59.7614 70 57 70H55V30H70V33C70 35.7614 72.2386 38 75 38C77.7614 38 80 35.7614 80 33V30V25C80 22.2386 77.7614 20 75 20H25Z"
+        fill="black" />
+    <text x="0" y="115" fill="#000000" font-size="5px" font-weight="bold"
+        font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif">Created by Dave
+        Robson
+    </text>
+    <text x="0" y="120" fill="#000000" font-size="5px" font-weight="bold"
+        font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif">from the Noun
+        Project
+    </text>
+</svg>

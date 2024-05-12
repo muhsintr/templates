@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" viewBox="0 0 100 100">
+    <g transform="translate(0,-952.36218)">
+        <path
+            style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:1;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.99999951999999980;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+            d="M 43 17 C 29.784411 17 20.475501 28.40709 20.96875 40.21875 C 12.516038 41.27971 6 48.6736 6 57 C 6 67.3588 13.97722 75 23 75 L 35 75 A 2.0001998 2.0001998 0 1 0 35 71 L 23 71 C 16.22346 71 10 65.3328 10 57 C 10 50.2902 15.866439 44 23 44 A 2.0001998 2.0001998 0 0 0 24.96875 41.71875 C 23.550209 31.61741 31.4681 21 43 21 C 47.278302 21 50.924207 22.34044 53.8125 24.46875 A 2.0001998 2.0001998 0 1 0 56.1875 21.25 C 52.655997 18.64773 48.137462 17 43 17 z M 66.5 26.65625 C 64.315886 26.692283 62.117668 27.175536 60.09375 28.1875 A 2.0124733 2.0124733 0 1 0 61.90625 31.78125 C 65.280151 30.09429 69.301622 30.28723 72.46875 32.1875 C 75.635878 34.08777 78 37.61111 78 43 A 2.0001998 2.0001998 0 0 0 79.65625 44.96875 C 85.664937 45.97692 90 51.9735 90 58 C 90 65.2362 84.294236 71 75 71 L 65 71 A 2.0001998 2.0001998 0 1 0 65 75 L 75 75 C 86.043448 75 94 67.4232 94 58 C 94 50.5894 89.155397 43.41148 81.8125 41.40625 C 81.334564 35.61738 78.493495 31.15859 74.53125 28.78125 C 72.364814 27.48139 69.923484 26.76388 67.4375 26.65625 C 67.126752 26.642796 66.812016 26.651102 66.5 26.65625 z M 49.78125 63 A 2.0001996 2.0001996 0 0 0 48.59375 63.5625 L 40.59375 71.5625 A 2.0001996 2.0001996 0 1 0 43.40625 74.40625 L 48 69.8125 L 48 81 A 2.0001996 2.0001996 0 1 0 52 81 L 52 69.8125 L 56.59375 74.40625 A 2.0001996 2.0001996 0 1 0 59.40625 71.5625 L 51.40625 63.5625 A 2.0001996 2.0001996 0 0 0 49.78125 63 z "
+            transform="translate(0,952.36218)" />
+    </g>
+    <text x="0" y="115" fill="#000000" font-size="5px" font-weight="bold"
+        font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif">Created by
+        throwaway icons
+    </text>
+    <text x="0" y="120" fill="#000000" font-size="5px" font-weight="bold"
+        font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif">from the Noun
+        Project
+    </text>
+</svg>
