@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>Funnel</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Funnel" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-92-Copy" transform="translate(6.000000, 9.000000)" fill="#FFFFFF">
+            <path d="M1.14400374,2.90706121 L1.07620392,2.79754217 L1.14982947,2.87438288 L1.16066619,2.90457423 L1.14400374,2.90706121 Z M1.176494,2.90221182 L11.9174799,14.1122462 L11.9174799,23.3155344 L16.6101945,21.8175393 L16.6101945,14.1199664 L26.7468927,2.95812429 L26.7675119,2.88801702 L15.56404,0.754774656 L1.176494,2.90221182 Z M26.8042144,2.8950055 L26.8240511,2.87316267 L26.8110538,2.89630778 L26.8042144,2.8950055 Z" id="Path-43" stroke="#131313"></path>
+            <ellipse id="Oval" stroke="#0073DC" cx="14" cy="2.5" rx="13" ry="2.5"></ellipse>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>bar chart</title>
+    <desc>Created with Sketch.</desc>
+    <g id="bar-chart" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Group-73" transform="translate(20.500000, 20.000000) rotate(-270.000000) translate(-20.500000, -20.000000) translate(9.000000, 7.000000)">
+            <polygon id="Stroke-1" stroke="#3F3F3F" points="0 26 5 26 5 13 0 13"></polygon>
+            <polygon id="Stroke-2" stroke="#0073DC" points="9 26 14 26 14 6 9 6"></polygon>
+            <polygon id="Stroke-3" stroke="#3F3F3F" points="18 26 23 26 23 0 18 0"></polygon>
+        </g>
+    </g>
+</svg>

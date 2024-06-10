@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>Area chart</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Area-chart" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-63" transform="translate(6.000000, 7.000000)">
+            <g id="Group-60">
+                <polyline id="Path-37" stroke="#0073DC" points="0 17.3645781 7.20029417 20.8 14.5 12.48 22.7951855 15.6 29 10.4"></polyline>
+                <polygon id="Path-35" stroke="#131313" stroke-linejoin="round" points="0 10.5839623 5.0890486 12.639434 12.5710138 6.73141609 20.4095087 8.48457735 29 0 29 26 0 26"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>Spline chart</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Spline-chart" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Group-68" transform="translate(3.000000, 6.000000)">
+            <g id="Group-49">
+                <path d="M6.31713827,23 C7.5931797,14.1907851 9.58373138,9.24756251 12.2887933,8.17033239 C16.3463862,6.5544872 22.4614086,17.7423274 27.5513421,14.7477392 C30.9446312,12.751347 33.0941838,7.83543393 34,0" id="Path-26" stroke="#131313"></path>
+                <path d="M0,23 C0.397160558,18.7544973 2.03291847,16.3214095 4.90727374,15.7007365 C9.21880664,14.769727 14.4660863,20.7389424 19.5012275,20.1800403 C22.8579883,19.8074389 25.3575791,16.4140921 27,10" id="Path-26" stroke="#0073DC"></path>
+            </g>
+        </g>
+    </g>
+</svg>

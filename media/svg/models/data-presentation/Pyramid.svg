@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>Pyramid</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Pyramid" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-58-Copy" transform="translate(8.000000, 9.000000)">
+            <path d="M6.97059943,9.96758585 L4.4644177,14.7937925 L18.9150705,14.7937925 L16.4088888,9.96758585 L6.97059943,9.96758585 Z" id="Combined-Shape" stroke="#0073DC"></path>
+            <path d="M2.44249065e-15,22.5765509 L2.6472843,17.47862 L21.013115,17.47862 L23.6603993,22.5765509 L7.10542736e-15,22.5765509 Z" id="Combined-Shape" stroke="#131313" stroke-linejoin="round"></path>
+            <path d="M8.01103418,7.28275834 L11.6524134,0 L15.2937925,7.28275834 L8.01103418,7.28275834 Z" id="Combined-Shape" stroke="#131313" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>

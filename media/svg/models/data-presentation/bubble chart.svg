@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>bubble chart</title>
+    <desc>Created with Sketch.</desc>
+    <g id="bubble-chart" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-82" transform="translate(8.000000, 7.000000)">
+            <circle id="Oval" stroke="#3F3F3F" cx="18.8283039" cy="8.17169615" r="8"></circle>
+            <circle id="Oval-Copy-16" stroke="#0073DC" cx="4.63579605" cy="16.6212279" r="4.63579605"></circle>
+            <circle id="Oval-Copy-18" stroke="#3F3F3F" cx="15.4360042" cy="22.5213319" r="2.95005203"></circle>
+        </g>
+    </g>
+</svg>
